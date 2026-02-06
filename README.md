@@ -44,7 +44,9 @@
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnelnrose&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&text_color=cbd5e1&border_radius=12&langs_count=8)
+  ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnelnrose&theme=tokyonight)
+  
+  ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnelnrose&theme=tokyonight)
   
 </div>
 
@@ -90,7 +92,7 @@
 
 ### 🔤 Top Languages by Repo
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnelnrose&theme=tokyonight&exclude={})
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnelnrose&theme=tokyonight)
 
 *Real-time language distribution by repository count*
 
