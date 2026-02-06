@@ -38,90 +38,193 @@
 
 ---
 
+## 📊 GitHub Activity Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Profile Summary
+
+<div align="left">
+
+**arnelnrose (Arnel)**
+
+- 🐙 **Contributions**: Active contributor
+- 💻 **Public Repos**: Building amazing projects
+- ⏰ **Joined GitHub**: Passionate developer
+
+</div>
+
+</td>
+<td width="50%">
+
+### 📈 Contributions in the Last Year
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&height=200)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔤 Top Languages by Repo
+
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=arnelnrose&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=cbd5e1&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5)
+
+</td>
+<td width="50%">
+
+### 💾 Top Languages by Commit
+
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=arnelnrose&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=cbd5e1&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-```typescript
-interface SeniorDeveloper {
-  name: string;
-  role: "Full Stack Architect" | "Tech Lead" | "Senior Engineer";
-  location: string;
-  yearsOfExperience: number;
-  
-  expertise: {
-    frontend: {
-      frameworks: ["React", "Next.js", "Vue.js", "Svelte"];
-      styling: ["Tailwind CSS", "CSS Modules", "Styled Components"];
-      stateManagement: ["Redux", "Zustand", "Jotai", "React Query"];
-      buildTools: ["Vite", "Webpack", "Turbopack"];
-    };
-    backend: {
-      languages: ["TypeScript", "Node.js", "Python", "Go"];
-      frameworks: ["Express", "Fastify", "NestJS", "FastAPI", "Gin"];
-      architecture: ["Microservices", "Serverless", "Event-Driven"];
-      patterns: ["REST", "GraphQL", "gRPC", "WebSockets"];
-    };
-    infrastructure: {
-      cloud: ["AWS", "GCP", "Azure", "Vercel"];
-      containers: ["Docker", "Kubernetes", "ECS"];
-      databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"];
-      monitoring: ["Datadog", "New Relic", "Prometheus", "Grafana"];
-    };
-    practices: {
-      methodologies: ["Agile", "Scrum", "Kanban"];
-      testing: ["Jest", "Vitest", "Playwright", "Cypress"];
-      ciCd: ["GitHub Actions", "GitLab CI", "Jenkins"];
-      codeQuality: ["ESLint", "Prettier", "SonarQube", "Code Review"];
-    };
-  };
-  
-  currentFocus: string[];
-  philosophy: string;
-}
+<div align="center">
 
-const arnel: SeniorDeveloper = {
-  name: "Arnel",
-  role: "Full Stack Architect",
-  location: "Philippines",
-  yearsOfExperience: 5+,
-  
-  expertise: {
-    frontend: {
-      frameworks: ["React", "Next.js", "Vue.js", "Svelte"],
-      styling: ["Tailwind CSS", "CSS Modules", "Styled Components"],
-      stateManagement: ["Redux", "Zustand", "Jotai", "React Query"],
-      buildTools: ["Vite", "Webpack", "Turbopack"]
-    },
-    backend: {
-      languages: ["TypeScript", "Node.js", "Python", "Go"],
-      frameworks: ["Express", "Fastify", "NestJS", "FastAPI", "Gin"],
-      architecture: ["Microservices", "Serverless", "Event-Driven"],
-      patterns: ["REST", "GraphQL", "gRPC", "WebSockets"]
-    },
-    infrastructure: {
-      cloud: ["AWS", "GCP", "Azure", "Vercel"],
-      containers: ["Docker", "Kubernetes", "ECS"],
-      databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-      monitoring: ["Datadog", "New Relic", "Prometheus", "Grafana"]
-    },
-    practices: {
-      methodologies: ["Agile", "Scrum", "Kanban"],
-      testing: ["Jest", "Vitest", "Playwright", "Cypress"],
-      ciCd: ["GitHub Actions", "GitLab CI", "Jenkins"],
-      codeQuality: ["ESLint", "Prettier", "SonarQube", "Code Review"]
-    }
-  },
-  
-  currentFocus: [
-    "Building scalable microservices architectures",
-    "Optimizing performance and user experience",
-    "Mentoring junior developers",
-    "Contributing to open source",
-    "Exploring AI/ML integration in web applications"
-  ],
-  
-  philosophy: "Code is poetry. Write it with intention, maintain it with care, and scale it with wisdom."
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Who I Am
+
+<div align="left">
+
+**Arnel** - Full Stack Architect
+
+📍 **Location**: Philippines  
+👨‍💼 **Role**: Senior Full Stack Developer  
+⏳ **Experience**: 5+ years  
+💼 **Status**: Open to opportunities
+
+**Philosophy**:  
+*"Code is poetry. Write it with intention, maintain it with care, and scale it with wisdom."*
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+<div align="left">
+
+- 🏗️ Building scalable microservices architectures
+- ⚡ Optimizing performance and user experience  
+- 🧪 Implementing comprehensive test coverage
+- 📚 Mentoring junior developers
+- 🌱 Contributing to open source projects
+- 🤖 Exploring AI/ML integration
+- 🔒 Security best practices
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🛠️ Technical Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🎨 Frontend
+
+<div align="left">
+
+**Frameworks**  
+React • Next.js • Vue.js • Svelte
+
+**Styling**  
+Tailwind CSS • CSS Modules • Styled Components
+
+**State Management**  
+Redux • Zustand • Jotai • React Query
+
+**Build Tools**  
+Vite • Webpack • Turbopack
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+#### ⚙️ Backend
+
+<div align="left">
+
+**Languages**  
+TypeScript • Node.js • Python • Go
+
+**Frameworks**  
+Express • Fastify • NestJS • FastAPI • Gin
+
+**Architecture**  
+Microservices • Serverless • Event-Driven
+
+**Patterns**  
+REST • GraphQL • gRPC • WebSockets
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+#### ☁️ Infrastructure
+
+<div align="left">
+
+**Cloud**  
+AWS • GCP • Azure • Vercel
+
+**Containers**  
+Docker • Kubernetes • ECS
+
+**Databases**  
+PostgreSQL • MongoDB • Redis • Elasticsearch
+
+**Monitoring**  
+Datadog • New Relic • Prometheus • Grafana
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+#### 🧪 Practices & Tools
+
+<div align="left">
+
+**Methodologies**: Agile • Scrum • Kanban  
+**Testing**: Jest • Vitest • Playwright • Cypress  
+**CI/CD**: GitHub Actions • GitLab CI • Jenkins  
+**Code Quality**: ESLint • Prettier • SonarQube • Code Review
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -184,17 +287,47 @@ const arnel: SeniorDeveloper = {
 
 ---
 
-## 📊 Detailed Metrics
+## 📊 Detailed Metrics & Analytics
 
 <div align="center">
-  
-  | Metric | Value |
-  |--------|-------|
-  | **Total Contributions** | ![GitHub all releases](https://img.shields.io/github/downloads/arnelnrose/arnelnrose/total?style=flat-square&color=3b82f6&labelColor=0d1117) |
-  | **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=arnelnrose&color=3b82f6&style=flat-square&label=Profile+Views) |
-  | **GitHub Stars** | ![GitHub stars](https://img.shields.io/github/stars/arnelnrose?style=flat-square&logo=github&color=3b82f6&labelColor=0d1117) |
-  | **Followers** | ![GitHub followers](https://img.shields.io/github/followers/arnelnrose?style=flat-square&logo=github&color=3b82f6&labelColor=0d1117) |
-  
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 📊 Total Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&border_radius=12&include_all_commits=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Statistics)
+
+</td>
+<td width="25%" align="center">
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=1e293b)
+
+</td>
+<td width="25%" align="center">
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=arnelnrose&color=3b82f6&style=for-the-badge&label=Profile+Views)
+
+![GitHub followers](https://img.shields.io/github/followers/arnelnrose?style=for-the-badge&logo=github&color=3b82f6&labelColor=0d1117&label=Followers)
+
+![GitHub stars](https://img.shields.io/github/stars/arnelnrose?style=for-the-badge&logo=github&color=3b82f6&labelColor=0d1117&label=Stars)
+
+</td>
+<td width="25%" align="center">
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -233,12 +366,22 @@ const arnel: SeniorDeveloper = {
 
 ---
 
-## 📈 Contribution Breakdown
+## 📈 Contribution Calendar 2026
 
 <div align="center">
   
-  ![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&custom_title=2026%20Contribution%20Calendar)
+  ![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&custom_title=2026%20Contribution%20Activity&height=300)
   
+</div>
+
+<div align="center">
+
+**Legend**: 
+- 🔵 Light blue = Low activity
+- 🔷 Medium blue = Moderate activity  
+- 🔵 Dark blue = High activity
+- ⚡ Green = Current streak
+
 </div>
 
 ---
