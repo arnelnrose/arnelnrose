@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&bg_color=1e293b&title_color=60a5fa&text_color=cbd5e1&margin_w=4&margin_h=4&column=7" alt="GitHub Trophy" width="100%" />
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&column=7)
   
 </div>
 
@@ -20,9 +20,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&border_radius=12&include_all_commits=true&count_private=true&hide=prs,issues,contribs" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=334155" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=334155)
   
 </div>
 
@@ -319,7 +319,7 @@ Datadog • New Relic • Prometheus • Grafana
 
 ### 📊 GitHub Statistics (Real-time)
 
-<img src="https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&border_radius=12&include_all_commits=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&include_all_commits=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Statistics)
 
 *Updates automatically with every commit*
 
@@ -328,7 +328,7 @@ Datadog • New Relic • Prometheus • Grafana
 
 ### 🔥 Contribution Streak (Live)
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=334155" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=334155)
 
 *Real-time streak tracking*
 
@@ -369,7 +369,7 @@ Datadog • New Relic • Prometheus • Grafana
 
 ### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&bg_color=1e293b&title_color=60a5fa&text_color=cbd5e1&margin_w=4&margin_h=4&column=7" alt="GitHub Trophy" width="100%" />
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&column=7)
 
 </div>
 
