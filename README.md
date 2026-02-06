@@ -10,7 +10,7 @@
 
 <div align="center" style="margin: 10px 0; padding: 8px; background: #334155; border-radius: 6px;">
 
-<small>💡 <strong>Note</strong>: If images don't load immediately, wait a few seconds - services may be rate-limited. They will appear once GitHub renders the README.</small>
+<small>💡 <strong>Note</strong>: Using GitHub Profile Summary Cards API for reliable real-time stats display.</small>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&column=7&row=1)
+  ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnelnrose&theme=tokyonight)
   
 </div>
 
@@ -26,9 +26,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&include_all_commits=true&count_private=true&hide=prs,issues,contribs)
+  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnelnrose&theme=tokyonight)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=334155)
+  ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnelnrose&theme=tokyonight&utcOffset=8)
   
 </div>
 
@@ -325,16 +325,16 @@ Datadog • New Relic • Prometheus • Grafana
 
 ### 📊 GitHub Statistics (Real-time)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&include_all_commits=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Statistics)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnelnrose&theme=tokyonight)
 
 *Updates automatically with every commit*
 
 </td>
 <td width="50%" align="center">
 
-### 🔥 Contribution Streak (Live)
+### 🔥 Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=334155)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnelnrose&theme=tokyonight&utcOffset=8)
 
 *Real-time streak tracking*
 
@@ -375,7 +375,7 @@ Datadog • New Relic • Prometheus • Grafana
 
 ### 🏆 GitHub Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&column=7&row=1)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnelnrose&theme=tokyonight)
 
 </div>
 
