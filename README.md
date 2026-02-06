@@ -16,39 +16,6 @@
 
 <br/>
 
-<div align="center">
-  
-  ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnelnrose&theme=tokyonight)
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnelnrose&theme=tokyonight)
-  
-  ![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnelnrose&theme=tokyonight&utcOffset=8)
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=1e293b&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&custom_title=Contribution%20Activity)
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnelnrose&theme=tokyonight)
-  
-  ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnelnrose&theme=tokyonight)
-  
-</div>
 
 ---
 
@@ -66,20 +33,10 @@
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnelnrose&theme=tokyonight)
 
-<div align="left" style="margin-top: 10px;">
-
-**arnelnrose (Arnel)**
-
-- 🐙 **Contributions**: Real-time from GitHub
-- 💻 **Public Repos**: Live count
-- ⏰ **Joined GitHub**: Profile data
-
-</div>
-
 </td>
 <td width="50%">
 
-### 📈 Contributions in the Last Year
+### 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=1e293b&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&height=250&custom_title=Contributions%20in%20the%20Last%20Year)
 
@@ -325,7 +282,7 @@ Datadog • New Relic • Prometheus • Grafana
 <tr>
 <td width="50%" align="center">
 
-### 📊 GitHub Statistics (Real-time)
+### 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnelnrose&theme=tokyonight)
 
@@ -334,30 +291,16 @@ Datadog • New Relic • Prometheus • Grafana
 </td>
 <td width="50%" align="center">
 
-### 🔥 Contribution Activity
+### ⏰ Productive Time
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnelnrose&theme=tokyonight&utcOffset=8)
 
-*Real-time streak tracking*
+*Real-time activity tracking*
 
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
-
-### 📈 Stats Card
-
-![GitHub Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnelnrose&theme=tokyonight)
-
-</td>
-<td width="33%" align="center">
-
-### ⏰ Productive Time
-
-![GitHub Profile Summary Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnelnrose&theme=tokyonight&utcOffset=8)
-
-</td>
-<td width="33%" align="center">
+<td colspan="2" align="center">
 
 ### 👁️ Social Stats
 
@@ -370,14 +313,6 @@ Datadog • New Relic • Prometheus • Grafana
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center" style="margin-top: 15px;">
-
-### 🏆 GitHub Achievements
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnelnrose&theme=tokyonight)
 
 </div>
 
@@ -437,19 +372,6 @@ Datadog • New Relic • Prometheus • Grafana
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  | Achievement | Status |
-  |------------|--------|
-  | 🏅 **Arctic Code Vault Contributor** | ✅ |
-  | 🌟 **Public Sponsor** | ✅ |
-  | 🎯 **Pull Shark** | ✅ |
-  | 🐛 **YOLO** | ✅ |
-  | 💎 **Starstruck** | ✅ |
-  
-</div>
 
 ---
 
