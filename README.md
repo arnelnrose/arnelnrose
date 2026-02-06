@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full+Stack+Developer;Architecting+Scalable+Solutions;Building+Modern+Web+Applications&font=Fira+Code&center=true&width=600&height=50&duration=4000&pause=1000&color=60A5FA&vCenter=true&size=28" />
 </div>
 
+<div align="center" style="margin: 10px 0; padding: 8px; background: #1e293b; border-radius: 6px;">
+
+<small>⚡ <strong>Real-time Data</strong>: All charts and statistics update automatically from GitHub API</small>
+
+</div>
+
 <br/>
 
 <div align="center">
@@ -42,19 +48,23 @@
 
 <div align="center">
 
+> ⚡ **All data is fetched in real-time from GitHub API** - Updates automatically with your latest activity
+
 <table>
 <tr>
 <td width="50%">
 
 ### 👤 Profile Summary
 
-<div align="left">
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnelnrose&theme=tokyonight)
+
+<div align="left" style="margin-top: 10px;">
 
 **arnelnrose (Arnel)**
 
-- 🐙 **Contributions**: Active contributor
-- 💻 **Public Repos**: Building amazing projects
-- ⏰ **Joined GitHub**: Passionate developer
+- 🐙 **Contributions**: Real-time from GitHub
+- 💻 **Public Repos**: Live count
+- ⏰ **Joined GitHub**: Profile data
 
 </div>
 
@@ -63,7 +73,9 @@
 
 ### 📈 Contributions in the Last Year
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&height=200)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnelnrose&theme=tokyo-night&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&hide_border=true&radius=12&height=250&custom_title=Contributions%20in%20the%20Last%20Year)
+
+*Real-time contribution activity*
 
 </td>
 </tr>
@@ -72,18 +84,28 @@
 
 ### 🔤 Top Languages by Repo
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=arnelnrose&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=cbd5e1&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnelnrose&theme=tokyonight&exclude={})
+
+*Real-time language distribution by repository count*
 
 </td>
 <td width="50%">
 
 ### 💾 Top Languages by Commit
 
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=arnelnrose&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=cbd5e1&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnelnrose&theme=tokyonight)
+
+*Real-time language distribution by commit activity*
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center" style="margin-top: 20px; padding: 10px; background: #1e293b; border-radius: 8px;">
+
+<small>🔄 **Live Data**: All charts update automatically when you push code, create repos, or make contributions</small>
 
 </div>
 
@@ -293,23 +315,43 @@ Datadog • New Relic • Prometheus • Grafana
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-### 📊 Total Contributions
+### 📊 GitHub Statistics (Real-time)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnelnrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&border_radius=12&include_all_commits=true&count_private=true&hide=prs,issues,contribs&custom_title=GitHub%20Statistics)
 
-</td>
-<td width="25%" align="center">
+*Updates automatically with every commit*
 
-### 🔥 Contribution Streak
+</td>
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak (Live)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=arnelnrose&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=60a5fa&sideNums=60a5fa&sideLabels=cbd5e1&dates=cbd5e1&border=1e293b)
 
-</td>
-<td width="25%" align="center">
+*Real-time streak tracking*
 
-### 👁️ Profile Views
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 📈 Stats Card
+
+![GitHub Profile Summary Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnelnrose&theme=tokyonight)
+
+</td>
+<td width="33%" align="center">
+
+### ⏰ Productive Time
+
+![GitHub Profile Summary Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnelnrose&theme=tokyonight&utcOffset=8)
+
+</td>
+<td width="33%" align="center">
+
+### 👁️ Social Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arnelnrose&color=3b82f6&style=for-the-badge&label=Profile+Views)
 
@@ -318,15 +360,16 @@ Datadog • New Relic • Prometheus • Grafana
 ![GitHub stars](https://img.shields.io/github/stars/arnelnrose?style=for-the-badge&logo=github&color=3b82f6&labelColor=0d1117&label=Stars)
 
 </td>
-<td width="25%" align="center">
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3)
-
-</td>
 </tr>
 </table>
+
+</div>
+
+<div align="center" style="margin-top: 15px;">
+
+### 🏆 GitHub Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=arnelnrose&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
